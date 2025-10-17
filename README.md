@@ -96,4 +96,32 @@ By focusing on **clear navigation**, **intuitive interfaces**, and **responsive 
 
 ---
 
+## 👥 Project Roles and Responsibilities
+
+| **Role** | **Responsibilities** |
+|-----------|----------------------|
+| **Project Manager** | Oversees the project timeline, coordinates the team, and manages overall deliverables to ensure the project stays on track. |
+| **Frontend Developers** | Implement user interface components, ensure responsive design, and integrate frontend logic with backend APIs. |
+| **Backend Developers** | Develop and maintain APIs, manage the database, and handle business logic to support application functionality. |
+| **Designers** | Create Figma mockups, maintain the design system, define visual guidelines, and ensure a consistent and high-quality user experience. |
+| **QA/Testers** | Write and execute test cases, perform usability and functionality testing, identify and report bugs for resolution. |
+| **DevOps Engineers** | Set up and manage deployment pipelines, maintain CI/CD workflows, handle server configuration, and ensure system reliability. |
+| **Product Owner** | Define project requirements, prioritize features, communicate with stakeholders, and ensure the product aligns with user needs. |
+| **Scrum Master** | Facilitate agile ceremonies (sprints, stand-ups, retrospectives), remove blockers, promote team efficiency, and maintain workflow transparency. |
+
+---
+
+### 💡 Contribution to Project Success
+Each role plays a critical part in ensuring the success of the AirBnB Clone project:
+- **Project Managers** keep the team aligned and deadlines achievable.  
+- **Frontend Developers** bring the design to life with interactivity and responsiveness.  
+- **Backend Developers** ensure data integrity and seamless server-side logic.  
+- **Designers** establish a visually consistent and intuitive user experience.  
+- **QA/Testers** guarantee product quality before deployment.  
+- **DevOps Engineers** streamline deployment and maintain reliable infrastructure.  
+- **Product Owners** ensure the final product meets both business and user expectations.  
+- **Scrum Masters** maintain an efficient, organized, and motivated development environment.
+
+---
+
 
