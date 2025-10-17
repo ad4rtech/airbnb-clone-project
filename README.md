@@ -125,3 +125,46 @@ Each role plays a critical part in ensuring the success of the AirBnB Clone proj
 ---
 
 
+## 🧩 UI Component Patterns
+
+### 🎯 Objective
+Begin exploring and documenting the core UI components that will be developed for the **AirBnB Clone Frontend Project**.  
+Each component will be designed for **reusability**, **responsiveness**, and **visual consistency** across the application.
+
+---
+
+### 🧱 Planned Components
+
+#### 🧭 Navbar
+The navigation bar will serve as the main entry point for users to explore the site.
+- **Logo** — Displays the brand identity and links to the homepage  
+- **Search Bar** — Allows users to search properties by location or keyword  
+- **User Navigation** — Includes profile, login, and menu options  
+- **Responsive Menu** — Adapts layout for mobile and tablet viewports  
+
+---
+
+#### 🏘️ Property Card
+A reusable card component used to display property listings on the main page.
+- **Property Image** — Displays a photo of the listing  
+- **Basic Details** — Shows price, location, and rating  
+- **Favorite Button** — Allows users to save or like properties  
+- **Responsive Layout** — Adjusts dynamically to screen size for grid or list view  
+
+---
+
+#### ⚓ Footer
+The footer will contain essential navigation and branding information across all pages.
+- **Site Links** — Quick links to major sections like Home, About, and Contact  
+- **Company Information** — Displays legal and company details  
+- **Social Media Links** — Icons linking to official social platforms  
+- **Copyright Information** — Includes © notice and project attribution  
+
+---
+
+### 🔁 Reusability and Consistency
+All components will:
+- Follow a **consistent design language** derived from the Figma style guide  
+- Be built as **modular, self-contained units** to simplify maintenance  
+- Ensure **responsiveness** for seamless behavior across devices  
+- Promote **scalability**, allowing new features to be added easily without breaking the UI structure
