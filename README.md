@@ -64,3 +64,36 @@ It minimizes friction during the user journey, increases **conversion rates**, a
 By focusing on **clear navigation**, **intuitive interfaces**, and **responsive layouts**, users can browse, select, and book accommodations effortlessly — improving both **usability** and **trust** in the platform.
 
 
+### 🎨 Figma Design Specifications
+
+#### 🎨 Color Styles
+| Usage | Hex Code | Description |
+|--------|-----------|-------------|
+| **Primary** | `#FF5A5F` | Main accent color used for buttons, highlights, and interactive elements |
+| **Secondary** | `#008489` | Complementary color used for secondary buttons and links |
+| **Background** | `#FFFFFF` | Clean, neutral background for maximum readability |
+| **Text** | `#222222` | Primary text color for titles and body text |
+| **Secondary Text** | `#717171` | Used for captions, labels, and less prominent text |
+
+---
+
+#### 🔤 Typography
+| Usage | Font Family | Font Weight | Font Size |
+|--------|--------------|--------------|-------------|
+| **Primary Font** | Circular | Medium (500) | 16px |
+| **Headings** | Circular | Bold (700) | 24px–32px |
+| **Secondary Text** | Circular | Book (400) | 14px |
+
+---
+
+### 🧩 Importance of Identifying Design Properties
+
+- It ensures **visual consistency** across all pages and components  
+- Helps developers **replicate the design accurately** during implementation  
+- Maintains **brand identity** and **aesthetic harmony** throughout the project  
+- Improves collaboration between **designers and developers** by providing a clear design reference  
+- Saves time by eliminating guesswork and ensuring that **UI decisions are intentional** and aligned with the overall user experience goals  
+
+---
+
+
