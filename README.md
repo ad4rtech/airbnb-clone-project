@@ -29,3 +29,38 @@ The project focuses on **modern frontend technologies**, **component-based archi
 | **Version Control** | Git & GitHub |
 | **UI/UX Design** | Figma (UI/UX Design) |
 
+
+## 🎨 UI/UX Design Planning
+
+### 🧭 Design Goals
+- Create an **intuitive booking flow** that guides users seamlessly from search to checkout  
+- Maintain **visual consistency** across all pages and components  
+- Ensure **fast loading times** for smooth browsing and interaction  
+- Prioritize **mobile responsiveness** for users on different devices  
+
+---
+
+### ✨ Key Features
+- **Property Search and Filtering** — Allow users to search by location, price, and property type  
+- **Detailed Property Viewing** — Display all essential information, including amenities and images  
+- **Secure Checkout Process** — Simplify the booking and payment experience  
+- **User Authentication** — Support login and registration for personalized access  
+
+---
+
+### 📄 Primary Pages
+
+| Page | Description |
+|------|--------------|
+| **Property Listing View** | Grid display of available properties with search and filter functionality |
+| **Listing Detailed View** | Comprehensive property details, image gallery, amenities, and booking form |
+| **Simple Checkout View** | Streamlined payment page for completing bookings and receiving confirmation |
+
+---
+
+### 💡 Importance of a User-Friendly Design
+A **user-friendly design** is essential for any booking platform.  
+It minimizes friction during the user journey, increases **conversion rates**, and enhances **overall satisfaction**.  
+By focusing on **clear navigation**, **intuitive interfaces**, and **responsive layouts**, users can browse, select, and book accommodations effortlessly — improving both **usability** and **trust** in the platform.
+
+
